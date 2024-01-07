@@ -1,6 +1,6 @@
 name: Build OnePluss-Sm8250-Kernel
 on:
-  # workflow_dispatch:
+  workflow_dispatch:
   # schedule:
       # Run once a week on Sunday at midnight. See http://crontab.guru
       # - cron: '0 21 * * *'
